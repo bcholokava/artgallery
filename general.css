@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Big Shoulders Display", cursive;
+  background-color: #f2f2f2;
+}
